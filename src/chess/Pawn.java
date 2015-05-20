@@ -2,6 +2,14 @@ package chess;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author Parth Shorey
+ * @author Rusit Soni
+ * 
+ *
+ */
+
 public class Pawn extends Piece {
 	
 	public Pawn(char c, Position p){
