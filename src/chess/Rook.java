@@ -2,6 +2,13 @@ package chess;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author Rusit Soni
+ * 
+ *
+ */
+
 public class Rook extends Piece {
 	
 	public Rook(char c, Position p){
