@@ -1,6 +1,14 @@
 package chess;
 import java.util.*;
 
+/**
+ * 
+ * @author Parth Shorey
+ * @author Rusit Soni
+ * 
+ *
+ */
+
 public abstract class Piece {
 	
 	public static final char white = 'w';
