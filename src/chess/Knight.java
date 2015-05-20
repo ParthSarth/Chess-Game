@@ -2,6 +2,13 @@ package chess;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author Rusit Soni
+ * 
+ *
+ */
+
 public class Knight extends Piece {
 	
 	public Knight(char c, Position p){
