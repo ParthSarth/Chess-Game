@@ -1,6 +1,14 @@
 package chess;
 import java.util.Scanner;
 
+/**
+ * 
+ * @author Rusit Soni
+ * @author Parth Shorey
+ * 
+ *
+ */
+
 public class Chess {
 	
 	public static void main(String[] args){
