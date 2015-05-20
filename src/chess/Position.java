@@ -1,5 +1,13 @@
 package chess;
 
+/**
+ * 
+ * @author Parth Shorey
+ * @author Rusit Soni
+ * 
+ *
+ */
+
 public class Position {
 	
 	private int x;
