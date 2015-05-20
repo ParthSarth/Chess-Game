@@ -1,3 +1,11 @@
+/**
+ * 
+ * @author Rusit Soni
+ * @author Parth Shorey
+ * 
+ *
+ */
+
 package chess;
 
 import java.util.ArrayList;
