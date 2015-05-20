@@ -2,6 +2,13 @@ package chess;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author Rusit Soni
+ * 
+ *
+ */
+
 public class Queen extends Piece {
 	public Queen(char c, Position p){
 		this.color = c;
