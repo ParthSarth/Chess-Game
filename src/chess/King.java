@@ -2,6 +2,13 @@ package chess;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author Rusit Soni
+ * 
+ *
+ */
+
 public class King extends Piece {
 	
 	boolean isKing = true;
