@@ -4,7 +4,6 @@ import java.util.Scanner;
 /**
  * 
  * @author Rusit Soni
- * @author Parth Shorey
  * 
  *
  */
