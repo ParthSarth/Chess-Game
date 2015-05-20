@@ -1,7 +1,6 @@
 /**
  * 
  * @author Rusit Soni
- * @author Parth Shorey
  * 
  *
  */
