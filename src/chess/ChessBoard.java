@@ -1,6 +1,14 @@
 package chess;
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author Parth Shorey
+ * @author Rusit Soni
+ * 
+ *
+ */
+
 
 public class ChessBoard {
 	Piece[][] board;
